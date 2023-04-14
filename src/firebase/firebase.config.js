@@ -1,20 +1,13 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  // apiKey: import.meta.env.VITE_apiKey,
-  // authDomain: import.meta.env.VITE_authDomain,
-  // projectId: import.meta.env.VITE_projectId,
-  // storageBucket: import.meta.env.VITE_storageBucket,
-  // messagingSenderId: import.meta.env.VITE_messagingSenderId,
-  // appId: import.meta.env.VITE_appId
-
-
-  apiKey: "AIzaSyAa02IHQ3pxR66LLUSAaJL_xNT_zLv1foI",
-  authDomain: "cars-website-80f67.firebaseapp.com",
-  projectId: "cars-website-80f67",
-  storageBucket: "cars-website-80f67.appspot.com",
-  messagingSenderId: "485335943917",
-  appId: "1:485335943917:web:24323c3c7317ba23a75ae4"
+  
+  apiKey: "AIzaSyCrN5pqgHngzMu58Cd-tiPyzxvooe1SXQI",
+  authDomain: "sell-my-car-7b717.firebaseapp.com",
+  projectId: "sell-my-car-7b717",
+  storageBucket: "sell-my-car-7b717.appspot.com",
+  messagingSenderId: "826691670514",
+  appId: "1:826691670514:web:da1c861753400e83f95b6b"
 };
 
 const app = initializeApp(firebaseConfig);
