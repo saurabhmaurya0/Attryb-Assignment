@@ -24,6 +24,8 @@
 
 ## Features
 
+- User Authentication, Private route, Dashboards for Admin, Buyers and Sellers, Payment Gateway
+- Technology Used: React.js, Tailwind CSS, Node.js, Express, MongoDB, Firebase, Stripe
 - Different dashboard for admin , sellers and buyers.
 - Buyers can book a item and pay through car to confirm purchase.
 - Sellers can add, remove and update their car for sell and advertise them in home section.
